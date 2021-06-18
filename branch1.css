@@ -1,0 +1,25 @@
+.pic1{
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    left:40%;
+    top: 32%;
+    position: absolute;
+    background: transparent;
+    color: rgb(17, 17, 16);
+}
+.listing{
+    position: absolute;
+    left:41%;
+    top: 40%;
+    background: transparent;
+    color: rgb(16, 7, 138);
+}
+.info{
+    color: rgb(160, 12, 135);
+    font-size: 0rem;
+}
